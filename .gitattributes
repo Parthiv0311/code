@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+C:/Users/parth/OneDrive/Desktop/simple-electron-app/node_modules filter=lfs diff=lfs merge=lfs -text
+node_modules/electron/dist/electron.exe filter=lfs diff=lfs merge=lfs -text
